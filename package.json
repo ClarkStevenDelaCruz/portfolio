@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClarkStevenDelaCruz/portfolio.git"
+  },
+  "author": "clark stevem dela cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClarkStevenDelaCruz/portfolio/issues"
+  },
+  "homepage": "https://github.com/ClarkStevenDelaCruz/portfolio#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
